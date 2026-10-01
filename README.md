@@ -24,7 +24,7 @@
 
 - NSE 3
 
-- Jr. Cybersecurity Analyst
+- Cisco Jr. Cybersecurity Analyst
 
 ---
 
